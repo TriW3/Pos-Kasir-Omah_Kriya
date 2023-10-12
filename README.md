@@ -15,7 +15,6 @@ berisikan informasi tentang tanggal sekarang, stok barang, barang terjual, dan n
 
    c. user<br>
    ![edit profil](https://github.com/TriW3/Pos-Kasir-Omah_Kriya/assets/100888453/52f92c7c-31cb-4fbd-a899-88698fb7172a)<br>
-<br>
 3. Transaksi <br>
    berisikan 2 fungsi yakni :<br>
    a. Jual<br>
